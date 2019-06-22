@@ -1,0 +1,16 @@
+{
+    "watch": {
+        "exchange": "binance",
+        "currency": "USDT",
+        "asset": "BTC"
+    },
+    "backtest": {
+        "daterange": {
+            "from": "2019-06-11T19:03:00Z",
+            "to": "2019-06-13T19:02:00Z"
+        }
+    },
+    "eventLogger" : {
+        "enabled": true
+    }
+}
